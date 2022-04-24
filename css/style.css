@@ -1,0 +1,48 @@
+#wrap {
+  width: 100%;
+}
+
+#header {
+  float: left;
+  height: 165px;
+  width: 100%;
+}
+
+#header_top {
+  margin: 0 auto;
+  width: 1000px;
+  height: 120px;
+
+}
+
+#header_top .info_mn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#header_top .info_mn li {
+  float: left;
+  border-right: 1px solid #555;
+  padding-right: 10px;
+  margin-right: 10px;
+  line-height: 10px;
+  font-size: 10px;
+}
+
+/* 여기까지 함, 4월24일, 일요일 오후 6시 */
+
+/* #header_top .info_mn li a {
+  font-size: 10px;
+} */
+
+#header_top .logo {
+  float: left;
+}
+
+
+
+#header_top ul li:last-child {
+  margin-right: 0px;
+}
+
