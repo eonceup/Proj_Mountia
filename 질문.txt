@@ -1,0 +1,8 @@
+<div id="header_mn">
+ <ul>
+   <li></li>
+   :
+ </ul>
+</div>
+
+에서 div를 생략하고 바로 ul id="header_mn" 으로 기술하면 안되나요?

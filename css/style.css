@@ -82,3 +82,27 @@
 #header_top .input_search>a {
   float: right;
 }
+
+#header_menu {
+  width: 100%;
+  height: 45px;
+  background-image: url(../images/nav_area.jpg);
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+}
+
+#header_menu ul {
+  margin: 0 auto;
+  width: 1005px;
+  font-size: 0;
+}
+
+#header_menu ul li {
+  display: inline;
+}
+
+#main_img {
+  float: left;
+  width: 100%;
+  height: 450px;
+  }
