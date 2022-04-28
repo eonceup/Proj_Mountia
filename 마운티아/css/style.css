@@ -126,7 +126,7 @@
     float: left;
     width: 170px;
     height: 250px;
-    /* background-color: antiquewhite; */
+    background-color: antiquewhite;
 }
 
 #contents .item_h h3 {
@@ -160,7 +160,7 @@
     float: right;
     width: 800px;
     height: 250px;
-    /* background-color: antiquewhite; */
+    background-color: antiquewhite;
 }
 
 
@@ -191,7 +191,7 @@
 #contents .item_b>li:nth-child(3) {}
 #contents .item_b>li:nth-child(4) {} */
 
-#contents .item_bli:last-child {
+#contents .item_b>li:last-child {
     margin-right: 0px;
 }
 
